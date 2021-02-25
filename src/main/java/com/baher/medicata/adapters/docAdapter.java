@@ -31,6 +31,7 @@ public class docAdapter extends RecyclerView.Adapter<docAdapter.MyView>{
     List<Data> doctors ;
     Context context ;
     boolean vertical ;
+    //Test test
 
 
     public static Data choosenDoctor ;
